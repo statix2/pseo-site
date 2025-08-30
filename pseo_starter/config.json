@@ -1,0 +1,21 @@
+{
+  "site_name": "Guide des aires de pique-nique",
+  "base_url": "https://<ton-utilisateur>.github.io/<ton-repo>",
+  "sheet_csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-<REMPLACE>/pub?gid=0&single=true&output=csv",
+  "affiliate": {
+    "amazon_tag": "REPLACE_WITH_YOUR_TAG-21",
+    "keywords": [
+      "gourde",
+      "tapis pique-nique",
+      "panier pique-nique"
+    ]
+  },
+  "niche": {
+    "type_label": "Aire de pique-nique",
+    "plural_label": "Aires de pique-nique",
+    "category_hint": "pique-nique"
+  },
+  "build": {
+    "output_dir": "public"
+  }
+}
