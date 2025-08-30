@@ -1,7 +1,7 @@
 {
   "site_name": "Guide des aires de pique-nique",
   "base_url": "https://statix2.github.io/pseo-site",
-  "sheet_csv_url": "",
+  "sheet_csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaOl63iGsIz0418qF8MN3Wh3J8d7r9Ibh5OcZFAWrnGnw1QwbYhj9dNGkz-ehyIGYJAzFWbEiB9MWR/pub?gid=1048610833&single=true&output=csv",
   "affiliate": {
     "amazon_tag": "REPLACE_WITH_YOUR_TAG-21",
     "keywords": [
